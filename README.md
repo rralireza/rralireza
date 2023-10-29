@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [DrakTech](https://draktech.com)
 
-- 🌱 I’m currently learning **ASP.NET Framework**
-
 - 💬 Ask me about **PHP and Laravel Framework**
 
 - 📫 How to reach me **rralireza254@yahoo.com**
