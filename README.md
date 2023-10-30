@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Alireza Nikandish</h1>
 <h3 align="center">A passionate Back-End developer</h3>
+<br>
 - 🔭 I’m currently working on [DrakTech](https://draktech.com)
+<br>
 - 🌱 I’m currently learning **Vue.JS framework**
+<br>
 - 💬 Ask me about **PHP and Laravel Framework**
+<br>
 - 📫 How to reach me **rralireza254@yahoo.com**
+<br>
 
 <div> <a href = "mailto:rralireza254@yahoo.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Languages and Tools:</h3>
