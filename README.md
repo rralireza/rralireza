@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [DrakTech](https://draktech.com)
 
-- 🌱 I’m currently learning **ASP .NET Core Framework**
+- 🌱 I’m currently learning **Vue JS Framework**
 
 - 💬 Ask me about **PHP & Laravel Framework**
 
